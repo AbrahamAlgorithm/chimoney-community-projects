@@ -133,6 +133,9 @@ We can't wait to see your contributions to Hacktoberfest 2024!
 Happy coding! 🚀
 
 ## A Big Thank You to All Our Awesome Contributors ❤️
-![Contributors](https://contrib.rocks/image?repo=Chimoney/chimoney-community-projects) <br><br>
-[![Back to Top](https://img.shields.io/badge/Back_to_Top-%23000000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](#initial)
-
+![Contributors](https://contrib.rocks/image?repo=Chimoney/chimoney-community-projects) <br>
+<p align="left">
+    <a href="#initial">
+        <img src="https://img.shields.io/badge/Back_to_Top-%23000000.svg?style=for-the-badge&logo=GitHub&logoColor=white" width="200" padding="#2d2c29" />
+    </a>
+</p>
